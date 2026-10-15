@@ -35,8 +35,8 @@ Em vez de pagar assinaturas caras por segundos de vídeo, o **giugtsu da kethy**
 
 ### 1. Clonar o repositório:
 ```bash
-git clone https://github.com/kethysb/giugtsu-da-kethy.git
-cd giugtsu-da-kethy
+git clone https://github.com/kethysb/giugtsu-da-kethy-ia-de-transformar-rosto-com-seedance.git
+cd giugtsu-da-kethy-ia-de-transformar-rosto-com-seedance
 ```
 
 ### 2. Instalar as dependências:
