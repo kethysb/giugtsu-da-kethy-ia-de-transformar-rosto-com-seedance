@@ -1,0 +1,10 @@
+torch>=2.1.0
+torchvision
+onnxruntime-gpu
+opencv-python-headless
+insightface
+controlnet-aux
+requests
+tqdm
+numpy
+git+https://github.com/facebookresearch/segment-anything-2.git

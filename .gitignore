@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+
+# Model Weights and Large Media
+models/*.pt
+models/*.onnx
+inputs/*.mp4
+inputs/*.jpg
+inputs/*.png
+outputs/*.mp4
+outputs/*.png
+
+# Checkpoints
+.ipynb_checkpoints/
